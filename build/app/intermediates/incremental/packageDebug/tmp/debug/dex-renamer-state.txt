@@ -1,0 +1,4 @@
+#Wed Dec 13 19:31:56 IST 2023
+base.0=D\:\\Development\\projects\\healthticktask\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
